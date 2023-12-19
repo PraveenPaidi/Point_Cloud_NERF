@@ -45,7 +45,7 @@ The depth loss with RGBD:
 Diff of registered and simple depth cloud loss function:
 
 
-<img width="349" alt="ddd" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/af0e9e39-40eb-458f-8a7a-5d314d16a7f4">
+<img width="605" alt="Screenshot 2023-12-19 050302" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/144243df-8a3a-4605-993c-b35912905308">
 
 
 
