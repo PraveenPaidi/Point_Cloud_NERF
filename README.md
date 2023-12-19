@@ -22,6 +22,36 @@ The task of reconstructing 3D scenes from image
 
 <img width="567" alt="kkk" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/028e6621-2f53-4dbc-9c82-d352ad341809">
 
+The MLP of NERF :
+
+<img width="338" alt="Screenshot 2023-12-19 050416" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/ff129a69-5da8-408a-b8ee-a921eaaa9823">
+
+The depth point cloud representation:
+
+<img width="349" alt="ddd" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/a612210b-2e47-41ca-977c-35d92a4b8971">
+
+The depth loss with RGB :
+
+<img width="410" alt="Screenshot 2023-12-19 050335" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/a6f1720b-8848-437c-9d44-348c4b3be7f6">
+
+
+
+The depth loss with RGBD:
+
+
+<img width="398" alt="Screenshot 2023-12-19 050350" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/d3984d39-a617-4c71-a017-2ea709867ab3">
+
+
+Diff of registered and simple depth cloud loss function:
+
+
+<img width="349" alt="ddd" src="https://github.com/PraveenPaidi/Point_Cloud_NERF/assets/120610889/af0e9e39-40eb-458f-8a7a-5d314d16a7f4">
+
+
+
+
+
+
 
 
 
